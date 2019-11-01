@@ -1,0 +1,9 @@
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\bin\Debug\newProjeecttttttt.exe.config
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\bin\Debug\newProjeecttttttt.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\bin\Debug\newProjeecttttttt.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.csprojResolveAssemblyReference.cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.Form1.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.Properties.Resources.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.csproj.GenerateResource.Cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\noorulhaq.gha\my documents\visual studio 2015\Projects\newProjeecttttttt\newProjeecttttttt\obj\Debug\newProjeecttttttt.pdb
